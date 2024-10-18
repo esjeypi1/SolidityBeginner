@@ -13,6 +13,7 @@ To run this program, you can use Remix, an online Solidity IDE. Simply visit the
 Once there, click the "+" icon in the left sidebar to create a new file. Save the file with a .sol extension (e.g., project2.sol), then copy and paste the code below into the file.
 
 ```javascript
+pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
